@@ -56,5 +56,5 @@ Credit Card Fraud Detection is a critical component in ensuring the security of 
     python main.py
     ```
 
-##Author
+## Author
 Atharv Mandpe
